@@ -1,0 +1,61 @@
+{
+    "recipes": [
+        {
+            "name": "Instant-pot Lentil Stew",
+            "ingredients": [
+                "1 Tbsp olive oil",
+                "1 carrot, peeled and chopped",
+                "1 onion, diced/chopped",
+                "1 lb? beef chunks or stew meet",
+                "1-3 cloves garlic, minced",
+                "---",
+                "1 Russet Potato, peeled and chopped",
+                "1 box beef broth (about 4 cups)",
+                "1.5 cups brown lentils",
+                "14.5oz can Fire Roasted Tomatoes, diced",
+                "1 tsp salt (or less)",
+                "1 tsp Oregano",
+                "1/2 tsp Paprika",
+                "1/4 tsp Cumin"
+            ],
+            "instructions": [
+                "Set instant pot to sauté and add olive oil",
+                "add carrots, then onion. sauté for 2-3 minutes (can sauté at the same time as browning the beef)",
+                "Add beef chunks and brown on all sides",
+                "Add garlic and sauté for 30 seconds",
+                "Add remaining ingredients and stir",
+                "Pressure cook on high for 12-13 minutes",
+                "Quick release pressure after time is up"
+            ]
+        },
+        {
+            "name": "Instant-pot Creamy Sausage Pasta",
+            "ingredients": [
+                "1 Tbsp olive oil",
+                "1 yellow onion, diced",
+                "1 lb mild italian sausage, ground",
+                "1-2 cloves garlic, minced",
+                "---",
+                "1 box Noodles (elbows or shells work well)",
+                "1-3 cups water (enough to just barely cover the noodles)",
+                "1 jar Pasta Sauce (enough to cover the top layer of the noodles)",
+                "1 Tbsp Italian Seasoning",
+                "---",
+                "1-2 cups heavy cream",
+                "parmesan cheese, as a topping"
+            ],
+            "instructions": [
+                "Set instant pot to sauté and add olive oil",
+                "Add diced onion and sauté for 2-3 minutes (can sauté at the same time as browning the sausage)",
+                "Add ground sausage and cook until browned, breaking up with a spoon",
+                "Add garlic and sauté for 30 seconds",
+                "Add 1 cup water and scrape the bottom of the pot to deglaze",
+                "Add noodles.  Add more water if needed to just barely cover the noodles",
+                "Add pasta sauce and italian seasoning.  Do not stir!  Let the pasta sauce sit on top of the noodles",
+                "Pressure cook on high for half the cook time recommended on the noodle box (usually 3 minutes)",
+                "Quick release pressure after time is up",
+                "Stir in heavy cream and top with parmesan cheese"
+            ]
+        }
+    ]
+}
